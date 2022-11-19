@@ -1,3 +1,0 @@
-Flask 
-IBM_DB
-
